@@ -4,7 +4,7 @@ import openai
 
 bot = Bot("5331924365:AAEoNkVYESV75Cc_GV1fhHQ4nvt_xIdgPOI")
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 def get(a,inp=""):
   response = openai.Edit.create(
